@@ -1,0 +1,4 @@
+"Esta aplicación utiliza el modelo de redes neuronales conocido como ResNet para reconocer rostros en imágenes y compararlos con una base de datos de rostros previamente almacenada. El usuario puede subir una imagen desde su dispositivo o utilizar la cámara para tomar una foto, y la aplicación devolverá el rostro más similar de la base de datos junto con la distancia euclidiana entre las dos imágenes.
+En esta ocacion es se empleo la Base de datos del proyecto https://www.proofofhumanity.org/ y https://proofofhumanity.id/ ,para generar el diccionario original"
+
+https://registradopoh.streamlit.app/
